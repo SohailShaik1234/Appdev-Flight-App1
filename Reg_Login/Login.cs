@@ -15,7 +15,7 @@ namespace Reg_Login
     {
 
 
-        int test = 1;
+        int test = 2;
         public Login()
         {
             InitializeComponent();
