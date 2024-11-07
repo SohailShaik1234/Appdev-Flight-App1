@@ -1,0 +1,8 @@
+001	Durban King Shaka International Airport	Cape Town International Airport	2800	First	01/11/2024	7:00:00	9:00:00	
+002	Port Elizabeth Chief Dawid Stuurman International Airport	Durban King Shaka International Airport	1250	Economy	01/11/2024	7:00:00	7:30:00
+003	Durban King Shaka International Airport	Cape Town International Airport	1750	Business	01/11/2024	8:00:00	10:00:00		
+004	Johnanesburg O.R. Tambo International Airport	Durban King Shaka International Airport	1200	Business	01/11/2024	9:30:00	10:15:00		
+005	Durban King Shaka International Airport	Cape Town International Airport	1500	Business	01/11/2024	7:00:00	9:00:00
+006	Durban King Shaka International Airport	Cape Town International Airport	1000	Economy	08/11/2024	2:00:00	4:00:00
+111	Cape Town	Port Elizabeth	1100	First	31/10/2024	7:00	12:00	
+111	Cape Town	Port Elizabeth	1100	First	31/10/2024	7:00	12:00	

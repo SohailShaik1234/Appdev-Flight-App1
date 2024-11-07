@@ -1,0 +1,7 @@
+001	Durban	Cape Town	2800	First	01/11/2024	7:00:00	9:00:00	
+002	Port Elizabeth	Durban	1250	Economy	01/11/2024	7:00:00	7:30:00
+003	Durban	Cape Town	1750	Business	01/11/2024	8:00:00	10:00:00		
+004	Johnanesburg	Durban	1200	Business	01/11/2024	9:30:00	10:15:00	
+005	Australia	Durban	4300	First	01/11/2024	14:00:00	17:00:00	
+006	Durban	London(United Kingdom)	6000	Economy	01/11/2024	20:00:00	23:45:00	
+007	Durban	Cape Town	1500	Business	01/11/2024	7:00:00	9:00:00
