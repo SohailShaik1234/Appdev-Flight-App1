@@ -1,8 +1,1 @@
-TEST	TEST	TEST	False	TEST	TEST
-Username123	zxcvBnm123#	Awsd@gmail.com	False	0102034004099	TEST
-user1000	Shabeer1@	abc@outlook.com	False	4309394592450	TEST
-Skylol	Shabeershaik1@	ssshaik939@gmail.com	False	0501306260081	Sohail123
-Sohail1	Sohail123@	sohail@gmail.com	False	1234567889967	Orange
-Meep	Asshole123@+	James@gmail.com	True	1412214241224	red
-MarkStrong1	Mark786@	Mark@gmail.com	False	1234567891011	Red
-User123	User1234@	User123@gmail.com	False	1241241241242	Blue
+
